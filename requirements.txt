@@ -1,0 +1,9 @@
+autogen-agentchat
+autogen-ext[openai]
+dotenv
+autogen-core
+pytest
+pydantic
+langchain-tavily
+autogen-ext[langchain]
+gradio
